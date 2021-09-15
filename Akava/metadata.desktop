@@ -1,9 +1,3 @@
-[ContrastEffect]
-contrast=0.2
-enabled=true
-intensity=2.0
-saturation=1.7
-
 [Desktop Entry]
 X-KDE-PluginInfo-Author=Nourepide
 X-KDE-PluginInfo-Category=Plasma Theme
